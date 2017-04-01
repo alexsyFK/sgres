@@ -7,8 +7,8 @@ class Residencia{
   public static void main(String[] args){
 pessoa morador[]= new pessoa[100];  
  pessoa p1=new pessoa();  
-   
-    
+int i=0;
+//alxsy    
     
 
  /*
@@ -22,7 +22,11 @@ pessoa morador[]= new pessoa[100];
 String username = console.readLine("Username: ");
 char[] password = console.readPassword("Password: ");
     p1.setNome(username);
-    System.out.println("bem-vindo "+p1.getNome());
+   morador[i]=p1;  
+
+    p1.chk();
+    
+    //System.out.println("bem-vindo "+p1.getNome());
     
     //String input = console.readLine();
 //char[] passString = cosole.readPassword();
@@ -31,8 +35,7 @@ char[] password = console.readPassword("Password: ");
     
     //Scanner sc2 = new Scanner(System.in);
    //p1.setSenha(sc2.nextLine());
-   morador[0]=p1;  
-
+  
     
     
    

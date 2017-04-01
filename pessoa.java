@@ -48,6 +48,13 @@ public class pessoa{
 }
     
     
+    
+    void chk(){
+System.out.println(nome.equals("ala")?"ok":"mo");        
+
+
+        
+    }
   
   
   

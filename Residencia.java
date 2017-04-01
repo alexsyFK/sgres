@@ -8,7 +8,7 @@ class Residencia{
 pessoa morador[]= new pessoa[100];  
  pessoa p1=new pessoa();  
 int i=0;
-//alxsy    
+//alxsy    007
     
 
  /*

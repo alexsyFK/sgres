@@ -42,8 +42,8 @@ public class pessoa{
   
   
   
- public void getMember(){
-  
+ public void setMember(String x){
+  nome=x;
 
 }
     

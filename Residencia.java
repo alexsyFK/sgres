@@ -21,8 +21,9 @@ pessoa morador[]= new pessoa[100];
     Console console = System.console();
 String username = console.readLine("Username: ");
 char[] password = console.readPassword("Password: ");
-    System.out.println(password);
     p1.setNome(username);
+    System.out.println("bem-vindo "+p1.getNome());
+    
     //String input = console.readLine();
 //char[] passString = cosole.readPassword();
   //  String pass = new String(passString );

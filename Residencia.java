@@ -8,8 +8,7 @@ class Residencia{
 pessoa morador[]= new pessoa[100];  
  pessoa p1=new pessoa();  
 int i=0;
-//alxsy    007...llll
-    
+//alxsy    007...llll;;;
 
  /*
     System.out.println("digite o nome de usuario!");

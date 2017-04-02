@@ -3,6 +3,7 @@
 insert into db_info(nome,idade) values('ana patricia',23); 
 
 delete from db_info where idade is null;
+delete from db_sgres.db_info where idade="";
 
 
 /*

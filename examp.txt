@@ -4,7 +4,6 @@ chmod -R 777
 chmod 777
 
  sudo apt-get install mysql-server ...5.7 deb
-=======
  sudo apt-get install mysql-server ....,magento sql,
  
  

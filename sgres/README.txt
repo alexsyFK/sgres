@@ -1,3 +1,0 @@
-aloha
-alk
-amanda

@@ -3,4 +3,4 @@ sudo chown cabox:www-data -R /home/cabox/workspace
 chmod -R 777
 chmod 777
 
- sudo apt-get install mysql-server 
+ sudo apt-get install mysql-server ....,magento sql
